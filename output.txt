@@ -1,0 +1,4 @@
+Minimal positive numbers is: 1
+Maximal negative number is: -124
+Minimal negative number is: -19
+Maximal positive number is: 100
